@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Buff<br>🌱 I’m currently learning Qt, OpenGL and Low Level Development<br>🤝 I’m looking for help with my SDL library in C++<br>📫 How to reach me alexmailbg@gmail.com
+🔭 I’m currently working on Buff<br>🌱 I’m currently learning Qt, OpenGL and Low Level Development<br>🤝 I’m looking for help with my DSL library in C++<br>📫 How to reach me alexmailbg@gmail.com
 
 
 ## 🌐 Socials:
