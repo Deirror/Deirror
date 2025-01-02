@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m looking forward to start my biggest project ***DOOMz*** (Car Software App) <br>🌱 I’m currently learning Qt, Java, Python and Low Level Development<br>🏫 I'm currently studying in FMI<br>📫 How to reach me alexmailbg@gmail.com
+🔭 I’m looking forward to start my biggest project ***DOOMz*** (Car Software App) <br>🌱 I’m currently learning Qt, Java, Python, Low Level Development and Go<br>🏫 I'm currently studying in FMI<br>📫 How to reach me alexmailbg@gmail.com
 
 
 ## 🌐 Socials:
