@@ -1,5 +1,5 @@
 # 💫 About Me:
-<img align="left" width="200" height="200" src="https://github.com/user-attachments/assets/e42ff7b1-5e12-4aef-b60a-661cbca84f6f" style="margin-right: 15px;">
+<img align="right" width="200" height="200" src="https://github.com/user-attachments/assets/e42ff7b1-5e12-4aef-b60a-661cbca84f6f" style="margin-right: 15px;">
 
 🔭 I’m looking forward to start my biggest project ***DOOMz*** (Car Software Web App) <br>
 🌱 I’m currently learning Qt, Java, Low Level Development and Go<br>
