@@ -11,4 +11,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Deirror&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=deirror&show_icons=true&locale=en&layout=compact" alt="deirror" /></p>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
