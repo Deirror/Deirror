@@ -2,7 +2,7 @@
 <img align="right" width="150" height="150" src="https://github.com/user-attachments/assets/e42ff7b1-5e12-4aef-b60a-661cbca84f6f" style="margin-right: 15px;">
 
 🔭 I’m looking forward to growing my web app - ***Deirrorz Tuning***(Car Software Web App)<br>
-🌱 I’m currently learning Qt/C++, Computer Graphics and Go<br>r>
+🌱 I’m currently learning Qt/C++, Computer Graphics and Go<br>
 🛒 Check out my production-ready automobile ECU software tuning web app <a href="https://dtuning.deirror.com">here</a><br>
 📫 How to reach me - deirror.dev@gmail.com
 
